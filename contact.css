@@ -1,0 +1,33 @@
+.top{
+color: white;
+text-align: center;
+text-decoration: solid;}
+
+.bottom{
+text-align: center;
+color: white;}
+
+.contact{
+    text-align: center;
+    color:white
+    }
+.info{
+color: white;}
+
+.chef{
+color: white; 
+text-align: center;
+}
+
+.flex{
+padding: 0%;
+margin: 0%;
+display: flex;
+flex-flow: column;  
+justify-content: space-around;  
+height: 5px;
+line-height: 2px;
+}
+.pic{
+text-align: center;
+}
